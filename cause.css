@@ -1,0 +1,54 @@
+/*
+* Paige Kenton
+* 5/19/19
+*Causes Project
+*/
+
+/* The universal selector */
+
+* {margin: 0; padding:0; background-color: lightyellow;} /* Universal attributes here */
+
+body {font-family: sans-serif; margin: 10px} /* Body attributes here */
+
+header {text-align: center; border-bottom: 4px solid yellow; padding: 15px} /* Header Attributes Here */
+
+main {padding: 20px; border-bottom: 4px solid yellow; padding-bottom: 15px;} /* Main attributes here */
+
+h1 {font-family: sans-serif;  /* Heading 1 Attributes Here */
+color: orange;}
+
+h3 {font-family: sans-serif;  /* Heading 3 Attributes Here */
+color: deepskyblue; padding: 15px; padding-left: 0px;}
+
+#section1 {padding-left: 320px;} /* Section 1 attributes here */
+
+#section2 {padding-left: 320px;} /* Section 2 attributes here */
+
+#whyaretheyendangered {padding-bottom: 15px;} /* whyaretheyendangered paragraph attributes here */
+
+#giraffehead {width: 200;  /*Image Attributes Here */
+height: 100; float: left; border: 3px dashed yellow;}
+
+#whataregiraffes {padding-left: 320px} /* whataregiraffes paragraph attributes here */
+
+#giraffetail {border: 2px solid yellow; width: 150px;  /*Image Attributes Here */
+height: 200px;}
+
+#huntedgiraffe {border: 2px solid yellow; width: 250px; height: 200px;} /*Image Attributes Here */
+
+#giraffeseating {border: 2px solid yellow; width: 240px; height: 200px;} /*Image Attributes Here */
+
+#giraffetongue {border: 2px solid yellow; width: 250px; height: 200px;} /*Image Attributes Here */
+
+#giraffepopulation {border: 2px solid yellow; width: 300px; height: 250px; float:right; margin-top: 15px;} /*Image Attributes Here */
+
+#finalp1 {padding-bottom: 15px;} /* final paragraph attributes here */
+
+
+footer {font-family: sans-serif; margin-top: 15px;} /* Font for the Footer Section */
+
+#disclaimer {float: right;} /* disclaimer paragraph attributes here */
+
+
+
+
